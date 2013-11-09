@@ -18,7 +18,7 @@ if door == "1":
 		print "Smart choice, you must have read the bear manual! The bear sniffs you and quickly runs away."
 		print "1. Continue down the corridor."
 	else:
-		print "The bear is swallowed by a bear, which in turn...burns your face off."
+		print "The bear is swallowed by a dragon, which in turn...burns your face off."
 		exit()
 		
 		
